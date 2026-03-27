@@ -1,6 +1,6 @@
 {
-  "buildCommand": "npm --prefix Blog run build",
-  "outputDirectory": "Blog/dist",
-  "installCommand": "npm --prefix Blog install",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "installCommand": "npm install",
   "framework": null
 }
