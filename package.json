@@ -1,0 +1,11 @@
+{
+  "name": "macee-blog-root",
+  "private": true,
+  "scripts": {
+    "install": "cd Blog && npm install",
+    "build": "cd Blog && npm run build",
+    "dev": "cd Blog && npm run dev",
+    "preview": "cd Blog && npm run preview",
+    "lint": "cd Blog && npm run lint"
+  }
+}
